@@ -1,4 +1,4 @@
-# Actions Resources
+# Actions Resources v2
 
 ## Documentation
 1. [Core concepts for GitHub Actions](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/core-concepts-for-github-actions)
